@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-06-22T23:01:22.421-05:00
-modified: 2026-06-23T00:04:25.213-05:00
+modified: 2026-06-23T09:47:02.777-05:00
 ---
 
 # Background
 
 We've been sent by the crown, [[King Kimbertos Skotti]] to investigate [[Saltmarsh]].
-There's a power vacuum in the South, and the major factions are the [[Traditionalist]] and the [[Loyalists]]. The official story towards the loyalists is that we're consultants, the traditionalists will not want to hear that we've been sent by the king.
+There's a power vacuum in the South, and the major factions are the [[Traditionalist]] and the [[Loyalist]]. The official story towards the loyalists is that we're consultants, the traditionalists will not want to hear that we've been sent by the king.
 
 ## Our band:
 
@@ -21,7 +21,7 @@ Druid, trapped in a cat's body with some evil entity.
 
 ### Nedri Tallflower (Shae):
 
-Halfling Rogue. On the night of the Red Moon theft, and [[Iron Eclipse Kabul]] descended on the town for the [[Ring of Invisibility]] suppressing sound and scent. They killed Nedri's whole family. Nedri was hiding in the fireplace. Nedri has trained for years after. [[Kale Blackbain]] is Nedri's underworld contact, telling her their last known location was Saltmarsh. She sometimes appears to talk to herself, while she actually talks to some unknown shadow creatures.
+Halfling Rogue. On the night of the Red Moon theft, the [[Iron Eclipse Kabul]] descended on the town for the [[Ring of Invisibility]] suppressing sound and scent. They killed Nedri's whole family. Nedri was hiding in the fireplace. Nedri has trained for years after. [[Kale Blackbain]] is Nedri's underworld contact, telling her their last known location was Saltmarsh. She sometimes appears to talk to herself, while she actually talks to some unknown shadow creatures.
 
 ### Thorne (Josh):
 
@@ -33,4 +33,4 @@ As we arrive, another ship is coming in with visible claw marks, tattered sails.
 
 At the Tavern, a Barmaid, [[Giselle]] didn't come in today as she normally would. We investigated her house, and found a boring journal. The only thing of interest is an entry for a new love interest coming from the north named Korvin. There's something about a haunted house
 
-[[Anders Solmor]], a member of the city council, and his manservant [[Skerrin]], they don't think the Haunted House is actually haunted, and confirmed the attack on the fishing boat took place half-way between here and the Sea Prince stronghold
+[[Anders Solmor]], a member of the city council, and his manservant [[Skerrin]], they don't think the Haunted House is actually haunted, and confirmed the attack on the fishing boat took place half-way between here and the Sea Prince stronghold.
