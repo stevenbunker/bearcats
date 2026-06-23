@@ -1,0 +1,8 @@
+---
+publish: true
+description: A nobleman and member of the city council
+created: 2026-06-13T14:17:13.482-05:00
+modified: 2026-06-22T23:01:17.854-05:00
+---
+
+Anders is a nobleman, though not of tremendous wealth. A member of the city council. Likely aligned to the [[Traditionalist|Traditionalists]]
