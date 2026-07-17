@@ -2,8 +2,10 @@
 publish: true
 description: Happier when the King left them alone
 created: 2026-06-22T23:01:06.239-05:00
-modified: 2026-06-23T09:41:43.097-05:00
+modified: 2026-07-17T15:28:00.010-05:00
 ---
+
+# [[Traditionalist.md|Traditionalist]]
 
 Want to leave things as they are, want to be left to their own devices.
 Lead by [[Eda Oweland]]
