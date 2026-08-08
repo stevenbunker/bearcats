@@ -14,6 +14,6 @@ modified: 2026-07-17T15:00:08.571-05:00
 | [[templates/NPC.md\|NPC]]                         | A nobleman and member of the city council                                              | traditionalists |
 | [[Anders Solmor.md\|Anders Solmor]]         | A nobleman and member of the city council                                              | Traditionalist  |
 | [[Eda Oweland.md\|Eda Oweland]]             | Leader of the city council                                                             | Traditionalist  |
-| [[Eleandor Fireborn.md\|Eleandor Fireborn]] | A warrior who fought in the King's Army prior to becoming a member of the city council | Loyalist        |
 | [[Giselle.md\|Giselle]]                     | A barmaid in Saltmarsh                                                                 | -              |
 | [[Skerrin.md\|Skerrin]]                     | Anders manservent                                                                      | Traditionalist  |
+| [[Eleandor Fireborn.md\|Eleandor Fireborn]] | A warrior who fought in the King's Army prior to becoming a member of the city council | Loyalist        |

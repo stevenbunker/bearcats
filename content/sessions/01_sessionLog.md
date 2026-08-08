@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-22T23:01:22.421-05:00
-modified: 2026-07-17T18:51:01.109-05:00
+modified: 2026-08-08T17:40:21.530-05:00
 ---
 
 # [[sessions/01_sessionLog.md|01_sessionLog]]
@@ -24,3 +24,6 @@ At the Tavern, a Barmaid, [[Giselle]] didn't come in today as she normally would
 [[Anders Solmor]], a member of the city council, and his manservant [[Skerrin]], they don't think the Haunted House is actually haunted, and confirmed the attack on the fishing boat took place half-way between here and the Sea Prince stronghold.
 
 - Explore the Haunted House
+
+> [!tldr] # ^summary
+> The adventure begins when the party arrives in [[Saltmarsh]]. Another ship arrives alongside ours, having just been attacked by [[Sahuagin]]. We learn a bit about the strang goes on around Saltmarsh, including a missing barmaid, and a Haunted House

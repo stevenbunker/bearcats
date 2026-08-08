@@ -14,5 +14,5 @@ Lead by [[Eleandor Fireborn]]
 
 | File                                                      | description                                                                            | location  |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------- |
-| [[Eleandor Fireborn.md\|Eleandor Fireborn]]         | A warrior who fought in the King's Army prior to becoming a member of the city council | Saltmarsh |
 | [[King Kimbertos Skotti.md\|King Kimbertos Skotti]] | -                                                                                     | -        |
+| [[Eleandor Fireborn.md\|Eleandor Fireborn]]         | A warrior who fought in the King's Army prior to becoming a member of the city council | Saltmarsh |
