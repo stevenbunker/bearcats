@@ -2,10 +2,10 @@
 publish: true
 description: You could mistake him for human, but for the slight point in the ears, and the way the moonlight reflects the wrong color. Wears a beret.
 created: 2026-07-17T16:55:16.284-05:00
-modified: 2026-08-08T16:23:13.787-05:00
+modified: 2026-08-09T16:28:33.657-05:00
 ---
 
-# [[player characters/Moody DesLunel.md|Moody DesLunel]]
+# Moody DesLunel
 
 ## Background
 

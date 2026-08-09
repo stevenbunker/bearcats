@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-06-22T23:01:22.421-05:00
-modified: 2026-08-09T16:13:06.079-05:00
+modified: 2026-08-09T16:26:35.389-05:00
 ---
 
-# [[sessions/001_sessionLog.md|001_sessionLog]]
+# 001\_sessionLog
 
 # This session summary
 

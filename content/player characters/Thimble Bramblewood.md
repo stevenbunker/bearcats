@@ -2,10 +2,10 @@
 publish: true
 description: A druid trapped in the body of a cat. Thimble communicates with his odd collar...
 created: 2026-07-17T15:35:53.606-05:00
-modified: 2026-08-08T16:50:57.840-05:00
+modified: 2026-08-09T16:28:43.064-05:00
 ---
 
-# [[player characters/Thimble Bramblewood.md|Thimble Bramblewood]]
+# Thimble Bramblewood
 
 ## Background
 

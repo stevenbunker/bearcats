@@ -2,10 +2,10 @@
 publish: true
 description: A cat-pawed halfling who's always mubling to themself
 created: 2026-07-17T15:42:58.395-05:00
-modified: 2026-07-17T18:47:27.288-05:00
+modified: 2026-08-09T16:28:38.492-05:00
 ---
 
-# [[player characters/Nedri Tallflower.md|Nedri Tallflower]]
+# Nedri Tallflower
 
 ## Background
 

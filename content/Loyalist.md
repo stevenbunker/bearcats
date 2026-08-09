@@ -2,10 +2,10 @@
 publish: true
 description: Loyal to the crown
 created: 2026-06-22T23:01:02.563-05:00
-modified: 2026-07-17T15:22:35.411-05:00
+modified: 2026-08-09T16:27:36.369-05:00
 ---
 
-# [[Loyalist.md|Loyalist]]
+# Loyalist
 
 Loyal to [[King Kimbertos Skotti]]
 Lead by [[Eleandor Fireborn]]
