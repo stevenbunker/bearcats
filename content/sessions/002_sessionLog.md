@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-08-08T13:40:43.871-05:00
-modified: 2026-08-09T15:54:55.866-05:00
+modified: 2026-08-09T16:21:02.287-05:00
 ---
 
 # [[sessions/002_sessionLog.md|002_sessionLog]]
 
 ## [[001_sessionLog|Previous session]]
 
-> [!summary]
+> [!summary] Summary: session 1
 > The adventure begins when the party arrives in [[Saltmarsh]]. Another ship arrives alongside ours, having just been attacked by [[Sahuagin]]. We learn a bit about the strang goes on around Saltmarsh, including a missing barmaid, and a Haunted House
 
 ## This session summary
 
 > [!tldr]
-> We head out north in search of [[Giselle]], and the place where the ship was ambushed. After fighting a alligator, we encounter another more intelligent lizard-folk who seems to know something of our missing barimaid
+> We head out north in search of [[Giselle]], and the place where the ship was ambushed. After fighting an alligator, we encounter another more intelligent lizard-folk who seems to know something of our missing barimaid
 
 > [!todo]
 >
