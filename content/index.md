@@ -1,10 +1,15 @@
 ---
 publish: true
 created: 2026-06-22T23:00:53.927-05:00
-modified: 2026-07-17T18:43:53.105-05:00
+modified: 2026-08-09T16:13:27.009-05:00
 ---
 
 # The World of 'Ghosts of Saltmarsh redux'
+
+## Background
+
+We've been sent by the crown, [[King Kimbertos Skotti]] to investigate [[Saltmarsh]].
+There's a power vacuum in the South, and the major factions are the [[Traditionalist]] and the [[Loyalist]]. The official story towards the loyalists is that we're consultants, the traditionalists will not want to hear that we've been sent by the king.
 
 ## Open Threads
 

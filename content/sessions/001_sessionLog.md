@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-06-22T23:01:22.421-05:00
-modified: 2026-08-09T15:55:37.868-05:00
+modified: 2026-08-09T16:13:06.079-05:00
 ---
 
 # [[sessions/001_sessionLog.md|001_sessionLog]]
 
-# Background
+# This session summary
 
-We've been sent by the crown, [[King Kimbertos Skotti]] to investigate [[Saltmarsh]].
-There's a power vacuum in the South, and the major factions are the [[Traditionalist]] and the [[Loyalist]]. The official story towards the loyalists is that we're consultants, the traditionalists will not want to hear that we've been sent by the king.
+> [!tldr]
+> The adventure begins when the party arrives in [[Saltmarsh]]. Another ship arrives alongside ours, having just been attacked by [[Sahuagin]]. We learn a bit about the strang goes on around Saltmarsh, including a missing barmaid, and a Haunted House
 
 ## Log
 
@@ -24,6 +24,3 @@ At the Tavern, a Barmaid, [[Giselle]] didn't come in today as she normally would
 [[Anders Solmor]], a member of the city council, and his manservant [[Skerrin]], they don't think the Haunted House is actually haunted, and confirmed the attack on the fishing boat took place half-way between here and the Sea Prince stronghold.
 
 - Explore the Haunted House
-
-> [!tldr] # ^summary
-> The adventure begins when the party arrives in [[Saltmarsh]]. Another ship arrives alongside ours, having just been attacked by [[Sahuagin]]. We learn a bit about the strang goes on around Saltmarsh, including a missing barmaid, and a Haunted House
