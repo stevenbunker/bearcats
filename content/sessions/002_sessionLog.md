@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-08-08T13:40:43.871-05:00
-modified: 2026-08-09T15:38:22.588-05:00
+modified: 2026-08-09T15:54:55.866-05:00
 ---
 
 # [[sessions/002_sessionLog.md|002_sessionLog]]
 
 ## [[001_sessionLog|Previous session]]
 
-> [!summary] [[001_sessionLog|link]]
+> [!summary]
+> The adventure begins when the party arrives in [[Saltmarsh]]. Another ship arrives alongside ours, having just been attacked by [[Sahuagin]]. We learn a bit about the strang goes on around Saltmarsh, including a missing barmaid, and a Haunted House
 
 ## This session summary
 
