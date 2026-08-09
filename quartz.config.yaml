@@ -140,6 +140,7 @@ plugins:
       enableRSS: true
   - source: github:quartz-community/favicon
     enabled: true
+    options: {}
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
@@ -223,7 +224,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -269,7 +270,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: anuppuccin
+      theme: abate
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
